@@ -1,3 +1,5 @@
+/* Making a change as per hw0 for Advanced Software Engineering class*/
+
 //Displaying numbers between -121 and 121 (including) in terms of the sum of powers of 3
 #include<iostream>
 #include<cmath>
